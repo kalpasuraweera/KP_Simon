@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-color: #06114C;
+  color: #FF8C32;
+  font-family: 'Comfortaa', cursive;
+}
+.titletext{
+  font-size: 90px;
+  margin: 10px;
+}
+.plate{
+  display: inline-block;
+  line-height: 200px;
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  border: 10px solid #000;
+  margin: 10px;
+  color: #DDDDDD;
+  font-size: 50px;
+cursor:pointer;
+
+}
+#platepress{
+  background-color: #DDDDDD;
+  box-shadow:0 0 8px 10px #DDDDDD;
+}
+.a{
+  background-color: green;
+}
+.s{
+  background-color: red;
+}
+.d{
+  background-color:yellow;
+}
+.f{
+  background-color: blue;
+}
